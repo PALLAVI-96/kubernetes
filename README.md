@@ -13,7 +13,7 @@ This guide helps you set up a **local Kubernetes cluster using Minikube** and `k
 ## 📄 Setup Guide
 
 See the full step-by-step instructions here:  
-📘 **[Minikube & kubectl Installation Guide (WSL)](./Minikube%20in%WSL.pdf)**
+📘 **[Minikube & kubectl Installation Guide (WSL)](./Minikube_in_WSL.pdf)**
 
 
 
